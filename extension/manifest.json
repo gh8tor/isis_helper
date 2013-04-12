@@ -1,12 +1,11 @@
 {
-    "name": "UFL ISIS Helper",
+    "name": "UFL Simple ISIS Helper",
     "version": "1.0",
-    "manifest_version": 2,
-    "description": "Adds a column to the course registration page containing teacher names and, if available, a link to their page on ratemyprofessor.com",
+    "manifest_version": 3,
+    "description": "Adds a column to the course registration page containing teacher names anda link to search their page on ratemyprofessor.com",
     "permissions": [
         "contextMenus",
         "tabs",
-        "http://*.ec2-23-22-84-14.compute-1.amazonaws.com/",
         "https://*.ufl.edu/",
         "http://*.ufl.edu/"
     ],
